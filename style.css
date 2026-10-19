@@ -9,3 +9,9 @@ body {
     background-color: lightblue;
     text-align: center;
 }
+
+.Div1{
+    border: 5px outset aliceblue;
+    background-color: lightblue;
+    align-items: left;
+}
