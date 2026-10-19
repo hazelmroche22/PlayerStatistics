@@ -12,7 +12,8 @@ body {
 
 .Div1{
     border: 5px outset aliceblue;
-    border-width: 5px;
+    width: 300px;
+    margin:auto;
     background-color: lightblue;
     align-items: left;
 }
