@@ -10,10 +10,15 @@ body {
     text-align: center;
 }
 
-.Div1{
+.row {
+    display:flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.block {
     border: 5px outset aliceblue;
-    width: 300px;
-    margin:auto;
     background-color: lightblue;
-    align-items: left;
+    width: 300px;
+    padding: 15px;
 }
